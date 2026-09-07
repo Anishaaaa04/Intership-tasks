@@ -11,7 +11,7 @@ Internship tasks and projects
 ### Purpose
 The cleaned dataset was prepared for further analysis and dashboard creation.
 
-# Task 2 – EDA 
+# Task 2: EDA 
 
 ## Overview
 
